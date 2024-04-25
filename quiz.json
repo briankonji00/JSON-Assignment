@@ -1,0 +1,41 @@
+{
+  "category": "Secure Your Secrets",
+  "questions": [
+    {
+      "question": "Hey Royce, I am trying to create a secure password for one of my online accounts. Can I just resuse one of my passwords?",
+      "options": [ "Yes", "No" ],
+      "answer": "No",
+      "correct_feadback": "Correct! It's advisable to have seperate password for each of your accounts. If one is breach others will remain secured.",
+      "wrong_feadback":"it is not safe to use the same password for all of your online accounts because if one of your account is,breached all of your accounts will be exposed."
+    },
+    {
+      "question": "Masimba, How are you? Help me out! Is it secure to have a password like: 'IloveBuddy'?",
+      "options": [ "Yes", "No" ],
+      "answer": "No",
+      "correct_feadback": "Correct! Using commonly use personal information like a pet's name, are easy to crack, and can be,guessed by someone who knows you.",
+      "wrong_feadback": "Never use commonly use personal information like a pet's name or favorite toy etc because it can be easly,guessed by someone who knows you"
+    },
+    {
+      "answer": "OK",
+      "correct_feadback": "It's ok to share password with your parents or guardian.",
+      "options": [ "OK", "No" ],
+      "question": "How are you Gregory? Please me the password for desktop machine.",
+      "wrong_feadback": "It's ok Guri to share password with your parents or guardian."
+    },
+    {
+      "question": "Hey pal, I keep on forgeting my password. Should I write it down.",
+      "options": [ "Yes", "No" ],
+      "answer": "No",
+      "correct_feadback": "Make your passwords memorable so you don't need to write them down, which would be risky",
+      "wrong_feadback": "It's risky to write passwords down but if you do so never write them where someone can find them."
+    },
+    {
+      "question": "Hey Chantiey, Send your password and I will upload the assigment for you.",
+      "options": [ "Yes", "No" ],
+      "answer": "No",
+      "correct_feadback": "Correct! Passwords should be kept private.",
+      "wrong_feadback": "Don't share your passwords with anyone but a parent or other adult you totally trust."
+    }
+
+  ]
+}
